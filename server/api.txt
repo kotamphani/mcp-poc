@@ -1,0 +1,9 @@
+List of API's Available:
+
+Plans API: 
+    url : http://127.0.0.1:5000/plans
+    description: This API gives all the available plans for all devices including smartphones, watches etc.
+
+Products API: 
+    url : http://127.0.0.1:5000/products
+    description: This API gives all the available devices like smartphones, mobile accessories, smartwatches etc. 
